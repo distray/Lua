@@ -1,4 +1,4 @@
-# Lua Mods & Cheats
+# Lua 
 
 - All of this work is not for free use. This work is not used commercially or personally. 
 
