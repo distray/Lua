@@ -1,2 +1,5 @@
-# Lua-Mods
-Just a list of my Lua work. Started learning 6/20/22.
+# Lua Mods & Cheats
+
+- All of this work is not for free use. This work is not used commercially or personally. 
+
+// Contact me for Lua Commissions @ distray#0001
