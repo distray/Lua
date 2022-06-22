@@ -1,3 +1,5 @@
+-- Title/GUI Box & Loader config
+
 loadfile = "speed-m.lua"
     io.write("Loaded speed-m.lua")
 loadfile = "kb.lua"
@@ -18,6 +20,29 @@ local function Distray() -- ScreenGui
     frame.Active = true
     frame.Selectable = true
     end
-    coroutine.wrap(distray)()
+    coroutine.wrap(distray)
 
+local function package(string);
+    loadfile = "database.lua"
+        io.write("Loaded Database")
+end 
+
+-- Database Storage
+
+local function store(str)
+    local script = instance.create('ID')
+        if id == "UnoNumero" then import "datakey"
+    end
+end
+
+instance.new('datakey');
+        datakey.Draggable = false
+            datakey.Active = true
+                datakey.selectable = true
+                local title = Instance.new('Database Key')
+                local description = instance.new('Jarsa.org')
+
+
+-- Continue Later for config
+-- Missing call on function. Missing rejected pass type. Missing  entry point and missing GUI for input on this stage.
 -- Incomplete // Do not install or use.
